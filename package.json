@@ -1,5 +1,5 @@
 {
-  "name": "jsftp",
+  "name": "jsftp-for-deploy-asset",
   "id": "jsftp",
   "version": "1.5.2",
   "description": "A sane FTP client implementation for NodeJS",
